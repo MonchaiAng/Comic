@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+   "comics": [
+    {
+      "id": 1,
+      "name": "One piece",
+      "nameId": 1
+    },
+    {
+      "id": 2,
+      "name": "One punchman",
+      "nameId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
